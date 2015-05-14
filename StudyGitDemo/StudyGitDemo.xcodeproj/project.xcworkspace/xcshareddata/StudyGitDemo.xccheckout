@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>F284093C-5391-4EE3-81FB-1A311EB24008</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>StudyGitDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>D3268DC63CE3571FFC2545FBF4F6DBE0F4586222</key>
 		<string>https://github.com/935255213/studyGIt.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>StudyGitDemo/StudyGitDemo.xcodeproj/project.xcworkspace</string>
+	<string>StudyGitDemo/StudyGitDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>D3268DC63CE3571FFC2545FBF4F6DBE0F4586222</key>
